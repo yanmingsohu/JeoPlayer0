@@ -1,0 +1,14 @@
+bin\*
+codec\*
+config
+VST\SonicMaximizer.dll
+VST\PSPEasyVerb.dll
+VST\pspeasyVerb注册码.txt
+JeoPlayer.exe
+使用帮助.txt
+下载最新版本.url
+安装Java.exe
+
+// BeoPlayer!.bat
+// 运行出错_打开这个检查环境.bat
+// BeoPlayer_linux

@@ -1,0 +1,80 @@
+
+关于BeoPlayer:
+
+BeoPlayer Java超酷的音乐播放器，另类的界面，华丽的效果，体验不一样的操作感受更多资料请访问：http://user.qzone.qq.com/412475540/blog/1219542957
+http://catfo0d.blog.sohu.com/129851399.html
+
+
+{beoplayer}
+{n="[爵士] 瑞士音乐广播" u="http://stream-10.ssatr.ch:80/rsj/mp3" p=""}
+{n="[爵士] 爵士钢琴" u="http://azul.streamguys.com/pianosolo64k" p=""}
+{n="[电子乐] 1.FM Chillout Lounge " u="http://tcl.1.fm/tcl32k" p=""}
+{n="[电子乐] Digital Gunfire" u="http://radio1-se.digitalgunfire.com:8000" p=""}
+{n="[乡村] 丹麦乡村音乐电台 " u="http://wmscr1.dr.dk/e06ch06m" p=""}
+{n="[乡村] Countrybear New Radio" u="http://wm-live.abacast.com/countrybear-new-32" p=""}
+{n="[推荐] [轻音乐] Happyday New Age Radio" u="http://61.111.251.216:8888/" p=""}
+
+{n="[推荐] [钢琴] Solo Piano" u="mms://wstream5g.di.fm/solopiano" p=""}
+{n="[推荐] 青檬音乐台 年轻人的IN乐台.就要,要流行" u="mms://pub1.qmoon.net/911pop?cccode=cc1325" p="http://list.mp3.baidu.com/radio/img/logo_bj_qn.gif"}
+{n="大连音乐台 FM 106.7" u="mms://av.runsky.com/yyradio" p=""}
+{n="大连交通广播" u="mms://av.runsky.com/jtradio?ZHVob25n" p=""}
+{n="大连都市广播" u="mms://av.runsky.com/cjradio?ZHVob25n" p=""}
+{n="HIT FM — 同步世界流行,Playing The Hottest Hits!hot" u="mms://live.hitfm.cn/fm887" p="http://list.mp3.baidu.com/radio/img/logo_bj_crihit.gif"}
+{n="都市流行频道 — 音乐不顾一切" u="mms://live.cri.cn/pop/" p="http://list.mp3.baidu.com/radio/img/logo_bj_cri.gif"}
+{n="怀旧金曲频道 — 品味老歌,感动生活" u="mms://live.cri.cn/oldies/" p="http://list.mp3.baidu.com/radio/img/logo_bj_cri.gif"}
+{n="写意民谣频道 — 音乐在路上,风景在耳边" u="mms://live.cri.cn/country/" p="http://list.mp3.baidu.com/radio/img/logo_bj_cri.gif"}
+{n="北京新闻广播" u="mms://alive.rbc.cn/fm1006" p="http://list.mp3.baidu.com/radio/img/logo_bj_876.gif"}
+{n="首都生活广播" u="mms://alive.rbc.cn/am603" p="http://list.mp3.baidu.com/radio/img/logo_bj_1039.gif"}
+{n="北京音乐广播" u="mms://alive.rbc.cn/fm974" p="http://list.mp3.baidu.com/radio/img/logo_bj_974.gif"}
+{n="北京外语广播" u="mms://alive.rbc.cn/am774" p="http://list.mp3.baidu.com/radio/img/logo_bj_927.gif"}
+{n="古典音乐广播" u="mms://alive.rbc.cn/cfm986" p="http://list.mp3.baidu.com/radio/img/logo_bj_wy.gif"}
+{n="爵士乐广播" u="mms://alive.rbc.cn/DAB" p=""}
+{n="教学广播" u="mms://alive.rbc.cn/cfm994" p=""}
+{n="长书广播" u="mms://alive.rbc.cn/cfm1043" p=""}
+{n="戏曲综艺广播" u="mms://alive.rbc.cn/cfm1051" p=""}
+{n="欢乐时光广播" u="mms://alive.rbc.cn/cfm1065" p=""}
+{n="一听音乐电台 — 每天听一听，音乐好心情" u="mms://online-radio.1ting.com/music" p="http://list.mp3.baidu.com/radio/img/logo_bj_yt.gif"}
+{n="东广音乐-动感101 — 动感101,关不掉的收音机" u="mms://218.1.74.230/dg101" p="http://list.mp3.baidu.com/radio/img/logo_shanghai_101.gif"}
+{n="东广音乐-LOVE RADIO — 听见你的最爱" u="mms://218.1.74.230/dg101" p="http://list.mp3.baidu.com/radio/img/logo_shanghai_101.gif"}
+{n="东广音乐-经典947" u="mms://218.1.74.230/ml103" p="http://list.mp3.baidu.com/radio/img/logo_shanghai_103.gif"}
+{n="天津相声广播 — 与欢笑同行" u="mms://61.136.19.228/live9" p="http://list.mp3.baidu.com/radio/img/logo_tj_972.gif"}
+{n="天津音乐广播" u="mms://61.136.19.228/live2" p="http://list.mp3.baidu.com/radio/img/logo_tj_990.gif"}
+{n="CityFM城市之音 四川 — 音乐听我的" u="mms://218.6.174.14/fm102.6" p="http://list.mp3.baidu.com/radio/img/logo_sc_city.gif"}
+{n="深圳音乐频率-飞扬971 — 做全中国最快乐的音乐广播" u="http://www.szmg.com.cn/szmg_vod/SZR-2_CT.asx" p="http://list.mp3.baidu.com/radio/img/logo_gd_shenzhen.gif"}
+{n="安徽音乐广播 — 爱上音乐,爱上我!" u="mms://live.ahradio.com.cn/yygb" p="http://list.mp3.baidu.com/radio/img/logo_ah_music.gif"}
+{n="合肥电台故事广播 — 中国故事第一台,阳光娱乐,绿色电波!" u="mms://218.185.192.4/audio4" p="http://list.mp3.baidu.com/radio/img/logo_ah_hfgs.gif"}
+{n="厦门音乐广播 — 新鲜15年" u="mms://mediasrv2.iptv.xmg.com.cn/yinyue" p="http://list.mp3.baidu.com/radio/img/logo_fj_xmusic.gif"}
+{n="山东广播文艺频道 — 欢乐传媒,时尚之声" u="mms://media.sdgb.cn/wenyi" p="http://list.mp3.baidu.com/radio/img/logo_sd_jnwy.gif"}
+{n="CITYFM城市之音 山东 — 音乐听我的" u="mms://media.sdgb.cn/yinyue" p="http://list.mp3.baidu.com/radio/img/logo_sd_jncity.gif"}
+{n="河北音乐广播 — M-RADIO,音乐在这里" u="mms://hbcdn.openhe.net:1755/hebradio_audio6" p="http://list.mp3.baidu.com/radio/img/logo_hb_music.gif"}
+{n="哈尔滨音乐广播 — 路上的音乐,家里的唱机,学生的MP3" u="mms://221.212.91.236/FM909" p="http://list.mp3.baidu.com/radio/img/logo_hlj_hrbyy.gif"}
+{n="故事广播 — 天下故事，尽在1033阳光调频" u="mms://221.9.251.166/fm1033" p="http://list.mp3.baidu.com/radio/img/logo_jl_gs.gif"}
+{n="沈阳文艺台 — 盛京花样年华,音乐共同分享" u="mms://218.24.104.71/wy" p="http://list.mp3.baidu.com/radio/img/logo_ln_shenyang.gif"}
+{n="内蒙古音乐之声 — 爱音乐,爱生活,清新调频,轻松音乐" u="mms://60.31.199.92/yinyue" p="http://list.mp3.baidu.com/radio/img/logo_nmg_936.gif"}
+{n="陕西音乐广播 — 音乐统天下,爱上988hot" u="mms://219.144.240.172/music" p="http://list.mp3.baidu.com/radio/img/logo_sx_988.gif"}
+{n="德宏人民广播电台孔雀之声 — 旅行途中的悠闲时光" u="mms://222.219.29.252:1173/" p="http://list.mp3.baidu.com/radio/img/logo_yn_1043.gif"}
+{n="[加拿大] 舞曲电台 Hard Dance" u="mms://wstream5c.di.fm/harddance" p=""}
+{n="CRI 环球资讯广播" u="mms://media.crinewsradio.cn/crinewsradio" p=""}
+{n="CRI 中国国际音乐台" u="mms://enmms.chinabroadcast.cn/fm91.5" p=""}
+{n="CRI学英语电台" u="mms://enmms.chinabroadcast.cn/am1008" p=""}
+{n="[英国] BBC音乐台" u="mms://wmlive.bbc.net.uk/wms/bbc_ami/6music/6music_bb_live_int_eq1_sl0?BBC-UID=548a5068dd1029615913062f713070523e26647f9090419464ff90224c28088c&amp;SSO2-UID=" p=""}
+{n="[美国] BBC3新闻广播" u="mms://livewmstream-ws.bbc.co.uk.edgestreams.net/reflector:47971" p=""}
+{n="[轻音乐] Bostonpete" u="mms://bostonpete.us/station02" p=""}
+{n="[轻音乐] W Stream 5G" u="mms://wstream5g.di.fm/newage" p=""}
+{n="[欧洲古典] Antena 2 Portugal" u="http://195.245.168.21/antena2?MSWMExt=.asf" p=""}
+
+{n="[欧洲古典] Classic FM" u="mms://netshow4.play.cz/classic128" p=""}
+{/beoplayer} 
+
+
+
+
+{n="" u="" p=""}
+
+http://catfo0d.blog.sohu.com/116170185.html
+    		
+    	
+    		
+    		
+    		
+    		

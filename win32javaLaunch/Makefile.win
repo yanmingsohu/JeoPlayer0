@@ -1,0 +1,33 @@
+# Project: ¹¤³Ì1
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = javaLaunch3_private.res
+OBJ  = main3.o $(RES)
+LINKOBJ  = main3.o $(RES)
+LIBS =  -L"C:/Program Files/DEV-CPP/Lib" -mwindows  
+INCS =  -I"C:/Program Files/DEV-CPP/include" 
+CXXINCS =  -I"C:/Program Files/DEV-CPP/lib/gcc/mingw32/3.4.2/include"  -I"C:/Program Files/DEV-CPP/include/c++/3.4.2/backward"  -I"C:/Program Files/DEV-CPP/include/c++/3.4.2/mingw32"  -I"C:/Program Files/DEV-CPP/include/c++/3.4.2"  -I"C:/Program Files/DEV-CPP/include" 
+BIN  = javaLaunch3.exe
+CXXFLAGS = $(CXXINCS)   -fexpensive-optimizations -O3
+CFLAGS = $(INCS)   -fexpensive-optimizations -O3
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before javaLaunch3.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CC) $(LINKOBJ) -o "javaLaunch3.exe" $(LIBS)
+
+main3.o: main3.c
+	$(CC) -c main3.c -o main3.o $(CFLAGS)
+
+javaLaunch3_private.res: javaLaunch3_private.rc 
+	$(WINDRES) -i javaLaunch3_private.rc --input-format=rc -o javaLaunch3_private.res -O coff 
